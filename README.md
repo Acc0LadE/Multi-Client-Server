@@ -1,2 +1,2 @@
-# Multi-Client-Server
-Multiple Clients can connect to one Server and exchange data with each other through the server.
+# SERVER COMMUNICATOR
+Use this project to setup Server and Multiple Client Communication line where we can send messages from the Client to Server.
